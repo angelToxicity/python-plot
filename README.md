@@ -1,6 +1,10 @@
 # python-plot
 Tarea de graficacion (Modelaje y Simulacion Digital)
 
+# Clonar codigo:
+
+git clone https://github.com/angelToxicity/python-plot.git
+
 # Instalar Matplotlib:
 
 sudo apt-get install python-pip python-dev
