@@ -32,8 +32,8 @@ def is_number(user_input):
         return val
     except:
         print("Opcion no valida, ingrese un numero valido: ")
-        input = input()
-        is_number(input)
+        inp = input()
+        is_number(inp)
 
 def is_float(user_input):
     try:
@@ -41,8 +41,8 @@ def is_float(user_input):
         return val
     except:
         print("Opcion no valida, ingrese un numero valido: ")
-        input = input()
-        is_float(input)
+        inp = input()
+        is_float(inp)
 
 def parameter():
     print("Ingrese el valor inicial del rango de graficacion en x: ")
